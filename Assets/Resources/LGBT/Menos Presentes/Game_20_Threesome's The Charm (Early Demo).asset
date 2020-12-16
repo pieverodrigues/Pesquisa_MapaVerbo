@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d415e0aca934134e9721a182e83d0fa, type: 3}
+  m_Name: Game_20_Threesome's The Charm (Early Demo)
+  m_EditorClassIdentifier: 
+  cover: {fileID: 21300000, guid: 9bcb073b4d141dd4db6425ee476882d5, type: 3}
+  gameName: Threesome's The Charm (Early Demo)
+  autor: Touha
+  gender: Visual Novel
+  tags: Bara, Dating Sim, Erotic, Gay, LGBT, nsfw, nudity, Queer, renpy, Yaoi

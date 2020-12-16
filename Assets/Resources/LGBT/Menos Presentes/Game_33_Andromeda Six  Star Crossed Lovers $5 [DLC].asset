@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d415e0aca934134e9721a182e83d0fa, type: 3}
+  m_Name: Game_33_Andromeda Six  Star Crossed Lovers $5 [DLC]
+  m_EditorClassIdentifier: 
+  cover: {fileID: 21300000, guid: d20e180ab203a104eb03605e215d51db, type: 3}
+  gameName: Andromeda Six | Star Crossed Lovers $5 [DLC]
+  autor: Wanderlust Games
+  gender: Visual Novel
+  tags: Cyberpunk, Dating Sim, LGBT, LGBTQIA, Otome, Sci-fi
